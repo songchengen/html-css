@@ -1,0 +1,10 @@
+/* 文字图片 */
+.text-wrap img {
+    float: left;
+    margin-right: 1em;
+}
+
+/* 清除浮动 */
+.text-wrap .to-wiki{
+    clear: left;
+}
